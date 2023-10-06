@@ -10,9 +10,7 @@ This project focuses on analyzing and predicting insurance claim amounts using d
 - [Model Building](#model-building)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
